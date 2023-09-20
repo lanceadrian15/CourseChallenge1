@@ -15,3 +15,14 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 1. Create the metrics according to the metric list.
 2. Create a dashboard according to the mock-up provided by stakeholders.  
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+![star schema](https://github.com/lanceadrian15/CourseChallenge1/assets/134387967/9fd076a3-07d0-4043-9dd2-f67d70016f83)
+
+This file contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
+1. dim_date
+2. dim_hotels
+3. dim_rooms
+4. fact_aggregated_bookings
+5. fact_bookings
+
+An additional Table named "DAX" is created and used for creating key metrics that is used key metrics
