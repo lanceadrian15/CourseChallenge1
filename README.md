@@ -1,5 +1,7 @@
 Codebasics Course Challenge #1  
 
+![cc1](https://github.com/lanceadrian15/CourseChallenge1/assets/134387967/70d43081-272c-4445-a8bd-8ed3a115db18)
+
 Domain:  Hospitality      
 
 Function: Revenue
@@ -15,6 +17,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 1. Create the metrics according to the metric list.
 2. Create a dashboard according to the mock-up provided by stakeholders.  
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
 
 ![star schema](https://github.com/lanceadrian15/CourseChallenge1/assets/134387967/9fd076a3-07d0-4043-9dd2-f67d70016f83)
 
