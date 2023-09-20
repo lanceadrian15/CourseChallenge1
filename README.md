@@ -28,4 +28,4 @@ This file contains all the meta information regarding the columns described in t
 4. fact_aggregated_bookings
 5. fact_bookings
 
-An additional Table named "DAX" is created and used for creating key metrics that is used key metrics
+An additional Table named "DAX" is created and used for the list of key metrics needed in determing the performance of each hotel
