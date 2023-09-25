@@ -1,7 +1,8 @@
 Codebasics Course Challenge #1  
 
 ![cc1](https://github.com/lanceadrian15/CourseChallenge1/assets/134387967/70d43081-272c-4445-a8bd-8ed3a115db18)
-
+                (sheet 2 out of 4)
+                
 Domain:  Hospitality      
 
 Function: Revenue
